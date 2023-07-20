@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\bin\Debug\net7.0\Gss.Contracts.deps.json
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\bin\Debug\net7.0\Gss.Contracts.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\bin\Debug\net7.0\Gss.Contracts.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\refint\Gss.Contracts.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\Gss.Contracts.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Contracts\obj\Debug\net7.0\ref\Gss.Contracts.dll

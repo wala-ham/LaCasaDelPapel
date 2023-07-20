@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\bin\Debug\net7.0\Gss.Domain.deps.json
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\bin\Debug\net7.0\Gss.Domain.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\bin\Debug\net7.0\Gss.Domain.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\refint\Gss.Domain.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\Gss.Domain.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Domain\obj\Debug\net7.0\ref\Gss.Domain.dll

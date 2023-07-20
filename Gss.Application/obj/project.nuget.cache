@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yoOGkaadj9YDb7FLwnAziGbRbQ2RXIcUz0YdpoJNVX+2v/eeXsl7VIC6uIr7VqkPjVYi/QFh/BL4UEH8eATNLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\ASP.Net Core Formation\\GSS\\Gss.Application\\Gss.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

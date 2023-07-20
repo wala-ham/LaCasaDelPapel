@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Infrastructure.deps.json
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Infrastructure.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Infrastructure.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.AssemblyInfo.cs
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\refint\Gss.Infrastructure.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\ref\Gss.Infrastructure.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Application.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Domain.dll
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Application.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\bin\Debug\net7.0\Gss.Domain.pdb
+C:\Users\HP\Desktop\ASP.Net Core Formation\GSS\Gss.Infrastructure\obj\Debug\net7.0\Gss.Infrastructure.csproj.CopyComplete
